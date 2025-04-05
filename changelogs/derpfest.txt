@@ -1,0 +1,8 @@
+Derpfest - Android 15
+Build Date - 06/04/2025
+- Synced with latest source
+- Introduced GameBar v2.0
+- Set display density to 420
+- Enabled LTO and O3 flags
+- Added SystemUI restart in restart advanced menu
+- Updated LMKD props and Set lmkd values per RAM variant
