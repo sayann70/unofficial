@@ -1,3 +1,14 @@
+Derpfest v15.2 - Android 15
+Build Date - 22/06/2025
+- Synced With Latest Source 
+- Reduced animation speed to 0.6
+- Updated Adreno drivers to v757
+- Imported lmkd props from stock (Moto-sm6225)
+- Lecia Camera Dropped
+- Updated blobs from SPESN HyperOS 1.0.11.0
+- Many More Under The Hood Changes
+
+
 Derpfest - Android 15
 Build Date - 06/04/2025
 Device Side
