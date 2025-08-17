@@ -1,0 +1,6 @@
+Lunaris-AOSP | 3.2 | Android 16
+Build Date - 17/08/25
+- Setup KSM
+- Reduced file cache to 150000
+- Adjusted paddings
+- Configured number of physical SIM slots
