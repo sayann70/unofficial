@@ -1,3 +1,8 @@
+Lunaris-AOSP | 3.5 | Android 16
+Build Date - 18/11/25
+- Updated corners and paddings
+- Synced with the latest sources 
+
 Lunaris-AOSP | 3.2 | Android 16
 Build Date - 17/08/25
 - Setup KSM
