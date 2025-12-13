@@ -1,3 +1,9 @@
+Lunaris-AOSP | 3.6 | Android 16
+Build Date - 13/12/25
+- Imported WiFiOverlay from sm6150 source
+- Set 90Hz frame rate multiple threshold
+- Misc Changes
+
 Lunaris-AOSP | 3.5 | Android 16
 Build Date - 18/11/25
 - Updated corners and paddings
